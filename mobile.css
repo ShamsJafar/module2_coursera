@@ -1,0 +1,4 @@
+@media (max-width: 767px) {
+    .colmn-sm-12 {
+        float: left;
+        width: 100%;} }
